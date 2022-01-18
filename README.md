@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Marcello Graco, 19 years old
+### Hello 👋 I'm Marcello Graco, 19 years old
 
 - 🔭 I’m currently working on Cloud and Front-End
 - 🌱 I’m currently learning Typescript, AI, Computing Science, Machine Learning and Data Science
@@ -19,6 +19,8 @@
   <img align="center" alt="MarGraco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MarGraco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MarGraco-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="MarGraco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="MarGraco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   
  ##
