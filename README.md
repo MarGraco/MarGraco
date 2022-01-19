@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Typescript, AI, Computing Science, Machine Learning and Data Science
 - 👯 I’m looking to collaborate on  open source projects
 - 📧 marcello.graco@gmail.com / marcello.graco@protonmail.com / marcello.nogueira@aluno.cefet-rj.br
--->
-
 
 <div align="center">
   <a href="https://github.com/MarGraco">
