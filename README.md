@@ -10,7 +10,6 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=MarGraco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="MarGraco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MarGraco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MarGraco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
