@@ -3,7 +3,7 @@
 - 🔭 I’m currently working/studing Cloud and Front-End
 - 🌱 I’m currently learning Typescript, AI, Computing Science, Machine Learning and Data Science
 - 👯 I’m looking to collaborate on  open source projects
-- 📧 marcello.graco@gmail.com / marcello.graco@protonmail.com / marcello.nogueira@aluno.cefet-rj.br
+- 📧 marcello.graco@protonmail.com
 
 <div align="center">
   <a href="https://github.com/MarGraco">
