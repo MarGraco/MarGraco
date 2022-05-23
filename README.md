@@ -1,8 +1,7 @@
 ### Hello 👋 I'm Marcello Graco, 19 years old
 
-- 🔭 I’m currently working/studing Cloud and Front-End
-- 🌱 I’m currently learning Typescript, AI, Computing Science, Machine Learning and Data Science
-- 👯 I’m looking to collaborate on  open source projects
+- 🔭 I’m currently working/studing Cloud and ML
+- 👯 I’m looking to collaborate on projects
 - 📧 marcello.graco@protonmail.com
   
  ##
