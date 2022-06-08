@@ -2,7 +2,6 @@
 
 📌 Trabalho com Modelos de Machine Learning e Deep Learning há mais de 3 anos.
 📌 Trabalho com Scikit-Learn, TensorFlow, OpenCV, PyTorch
-📌 Tempo com cada linguagem de programação:
 
 ✒ Python ▪ 3 - 4 anos
 ✒ C / C++ ▪ 4 anos 
