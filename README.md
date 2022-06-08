@@ -1,4 +1,4 @@
-### Hello 👋 I'm Marcello Graco, 19 years old
+### Olá! Me chamo Marcello Graco. Confira abaixo um pouco sobre mim! =)
 
 - 🔭 I’m currently working/studing Cloud and ML
 - 👯 I’m looking to collaborate on projects
