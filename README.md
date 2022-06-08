@@ -1,11 +1,11 @@
 ### Olá! Me chamo Marcello Graco. Confira abaixo um pouco sobre mim! =)
 
-📌 Trabalho com Modelos de Machine Learning e Deep Learning há mais de 3 anos.
-📌 Trabalho com Scikit-Learn, TensorFlow, OpenCV, PyTorch
+ - Trabalho com Modelos de Machine Learning e Deep Learning há mais de 3 anos.
+ - Trabalho com Scikit-Learn, TensorFlow, OpenCV, PyTorch
 
-✒ Python ▪ 3 - 4 anos
-✒ C / C++ ▪ 4 anos 
-✒ HTML / JS / CSS / Java ▪ 1 ano
+ - Python ▪ 3 - 4 anos
+ - C / C++ ▪ 4 anos 
+ - HTML / JS / CSS / Java ▪ 1 ano
 
 E aí... Vamos trabalhar juntos?
  ##
