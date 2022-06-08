@@ -1,9 +1,16 @@
 ### Olá! Me chamo Marcello Graco. Confira abaixo um pouco sobre mim! =)
 
-- 🔭 I’m currently working/studing Cloud and ML
-- 👯 I’m looking to collaborate on projects
-- 📧 marcello.graco@protonmail.com
-  
+Olá! Tudo bem? Abaixo, um resumo com do que faço!
+
+📌 Trabalho com Modelos de Machine Learning e Deep Learning há mais de 3 anos.
+📌 Trabalho com Scikit-Learn, TensorFlow, OpenCV, PyTorch
+📌 Tempo com cada linguagem de programação:
+
+✒ Python ▪ 3 - 4 anos
+✒ C / C++ ▪ 4 anos 
+✒ HTML / JS / CSS / Java ▪ 1 ano
+
+E aí... Vamos trabalhar juntos?
  ##
 
   <div>
