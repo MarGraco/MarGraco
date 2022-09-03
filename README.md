@@ -3,6 +3,7 @@
 ▪ Python web: APIs (Fast API)
 
 ▪ Solid knowledge at the languages below:
+           
            Python : 3 - 4 years
            C#     : 4 years
            C++    : 4 years
