@@ -1,25 +1,25 @@
 ### Hi! My name is Marcello Graco!
 
-Python web: APIs (Fast API)
+▪ Python web: APIs (Fast API)
 
-Solid knowledge at the languages below:
+▪ Solid knowledge at the languages below:
            Python : 3 - 4 years
            C#     : 4 years
            C++    : 4 years
 
-Containers, dockers and microservices
+▪ Containers, dockers and microservices
 
-Code versioning (Github, Bitbucket)
+▪ Code versioning (Github, Bitbucket)
 
-Cloud (AWS, Azure)
+▪ Cloud (AWS, Azure)
 
-SQL (PostgreSQL)
+▪ SQL (PostgreSQL)
 
-Data Visualization (Power BI, Excel and Data Studio)
+▪ Data Visualization (Power BI, Excel and Data Studio)
 
-Google Colab and Jupyter Notebook
+▪ Google Colab and Jupyter Notebook
 
-SCRUM Fundamentals
+▪ SCRUM Fundamentals
  ##
 
   <div>
