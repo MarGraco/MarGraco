@@ -1,13 +1,9 @@
 ### Hi! My name is Marcello Graco!
-
-Work experience with projects that requires me as python developer and computer vision engineer:
-
 Python web: APIs (Fast API)
 Solid knowledge at the languages below:
-
-           - Python : 3 - 4 years
-           - C#	  : 4 years
-           - C++ 	  : 4 years
+           Python : 3 - 4 years
+           C#     : 4 years
+           C++    : 4 years
 
 Containers, dockers and microservices
 Code versioning (Github, Bitbucket)
@@ -16,8 +12,6 @@ SQL (PostgreSQL)
 Data Visualization (Power BI, Excel and Data Studio)
 Google Colab and Jupyter Notebook
 SCRUM Fundamentals
-
-I am open to participate of new challenges.
  ##
 
   <div>
