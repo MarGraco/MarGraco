@@ -1,13 +1,23 @@
-### Olá! Me chamo Marcello Graco. Confira abaixo um pouco sobre mim! =)
+### Hi! My name is Marcello Graco!
 
- - Trabalho com Modelos de Machine Learning e Deep Learning há mais de 3 anos.
- - Trabalho com Scikit-Learn, TensorFlow, OpenCV, PyTorch
+Work experience with projects that requires me as python developer and computer vision engineer:
 
- - Python ▪ 3 - 4 anos
- - C / C++ ▪ 4 anos 
- - HTML / JS / CSS / Java ▪ 1 ano
+▪ Python web: APIs (Fast API)
+▪ Solid knowledge at the languages below:
 
-E aí... Vamos trabalhar juntos?
+           - Python : 3 - 4 years
+           - C#	  : 4 years
+           - C++ 	  : 4 years
+
+▪ Containers, dockers and microservices
+▪ Code versioning (Github, Bitbucket)
+▪ Cloud (AWS, Azure)
+▪ SQL (PostgreSQL)
+▪ Data Visualization (Power BI, Excel and Data Studio)
+▪ Google Colab and Jupyter Notebook
+▪ SCRUM Fundamentals
+
+I am open to participate of new challenges.
  ##
 
   <div>
