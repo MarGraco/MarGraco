@@ -1,7 +1,9 @@
 ### Hi! My name is Marcello Graco!
 
 ▪ Python web: FastAPI, Django
+
 ▪ React.js, Node.js, Express.js
+
 ▪ Solid knowledge at the languages below:
            
            Python : 3 - 4 years
