@@ -14,7 +14,7 @@
 
 ▪ Cloud (AWS, Azure)
 
-▪ SQL (PostgreSQL)
+▪ SQL (PostgreSQL, MongoDB and SQLite)
 
 ▪ Data Visualization (Power BI, Excel and Data Studio)
 
