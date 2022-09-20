@@ -1,7 +1,7 @@
 ### Hi! My name is Marcello Graco!
 
-▪ Python web: APIs (Fast API)
-
+▪ Python web: FastAPI, Django
+▪ React.js, Node.js, Express.js
 ▪ Solid knowledge at the languages below:
            
            Python : 3 - 4 years
@@ -12,7 +12,7 @@
 
 ▪ Code versioning (Github, Bitbucket)
 
-▪ Cloud (AWS, Azure)
+▪ Cloud (AWS, Azure, GCP)
 
 ▪ SQL (PostgreSQL, MongoDB and SQLite)
 
